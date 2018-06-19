@@ -3,7 +3,7 @@
         {
             "location": "/", 
             "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Home"
+            "title": "1) Introduction"
         }, 
         {
             "location": "/#welcome-to-mkdocs", 
@@ -19,6 +19,46 @@
             "location": "/#project-layout", 
             "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Project layout"
+        }, 
+        {
+            "location": "/understanding/", 
+            "text": "Understanding the War Diaries", 
+            "title": "2) Understanding the War Diaries"
+        }, 
+        {
+            "location": "/understanding/#understanding-the-war-diaries", 
+            "text": "", 
+            "title": "Understanding the War Diaries"
+        }, 
+        {
+            "location": "/cleaning/", 
+            "text": "Cleaning Data", 
+            "title": "3) Cleaning Data"
+        }, 
+        {
+            "location": "/cleaning/#cleaning-data", 
+            "text": "", 
+            "title": "Cleaning Data"
+        }, 
+        {
+            "location": "/analysis/", 
+            "text": "Insights and Visualizations", 
+            "title": "4) Insights and Visualizations"
+        }, 
+        {
+            "location": "/analysis/#insights-and-visualizations", 
+            "text": "", 
+            "title": "Insights and Visualizations"
+        }, 
+        {
+            "location": "/conclusion/", 
+            "text": "Conclusion", 
+            "title": "5) Conclusion"
+        }, 
+        {
+            "location": "/conclusion/#conclusion", 
+            "text": "", 
+            "title": "Conclusion"
         }
     ]
 }
