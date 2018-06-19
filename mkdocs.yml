@@ -1,11 +1,10 @@
 site_name: HIST3814O Final Project
 theme: readthedocs
 site_author: Alexei Tipenko
-repo_url: https://alexeitipenko.github.io/HIST3814ProjectWebsite/
 
 pages:
-    - Introduction: 'index.md'
-    - 1) Understanding the War Diaries: 'understanding.md' 
-    - 2) Cleaning Data: 'cleaning.md'
-    - 3) Insights and Visualizations: 'analysis.md'
-    - 4) Conclusion: 'conclusion.md'
+    - 1) Introduction: 'index.md'
+    - 2) Understanding the War Diaries: 'understanding.md' 
+    - 3) Cleaning Data: 'cleaning.md'
+    - 4) Insights and Visualizations: 'analysis.md'
+    - 5) Conclusion: 'conclusion.md'
