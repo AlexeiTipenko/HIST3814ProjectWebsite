@@ -7,5 +7,5 @@ pages:
     - Introduction: 'index.md'
     - 1) Understanding the War Diaries: 'understanding.md' 
     - 2) Cleaning Data: 'cleaning.md'
-    - 3) Insights and Visualizations: 'insights.md'
+    - 3) Insights and Visualizations: 'analysis.md'
     - 4) Conclusion: 'conclusion.md'
