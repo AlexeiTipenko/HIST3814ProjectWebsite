@@ -1,7 +1,7 @@
 site_name: HIST3814O Final Project
 theme: readthedocs
 site_author: Alexei Tipenko
-repo_url: https://github.com/AlexeiTipenko/HIST3814ProjectWebsite/tree/master/docs
+repo_url: https://alexeitipenko.github.io/HIST3814ProjectWebsite/
 
 pages:
     - Introduction: 'index.md'
