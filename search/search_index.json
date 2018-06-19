@@ -2,23 +2,13 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Introduction\n\n\nThe purpose of this project was to create a compelling story for the data found in the 14th Canadian General Hospital War Diaries. This collection can be found \nhere\n, or it can be viewed on my \nGitHub page\n. After looking at the files, it was difficult to see how I could use digital history to get any kind of valuable information from these photographs. For one, it was difficult to understand the writing. There were several spelling and grammatical mistakes contained within the \"Summary of Events and Information\" section. The format of the locations and dates were very inconsistent, especially with the different authors involved. However, after looking at these photographs for some time, I started to see certain patterns that may be useful.\n\n\nIn the next few sections, I will explain my process of understanding the documents, transcribing their contents and cleaning the data using various tools and techniques. Finally, I will discuss what I have learned from data by presenting some visualizations.\n\n\nAll the contents of this project can be found \nhere\n on my GitHub page. If you are interested in extending the project, feel free to fork the repository and make your own additions.", 
             "title": "1) Introduction"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
-        }, 
-        {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
-        }, 
-        {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#introduction", 
+            "text": "The purpose of this project was to create a compelling story for the data found in the 14th Canadian General Hospital War Diaries. This collection can be found  here , or it can be viewed on my  GitHub page . After looking at the files, it was difficult to see how I could use digital history to get any kind of valuable information from these photographs. For one, it was difficult to understand the writing. There were several spelling and grammatical mistakes contained within the \"Summary of Events and Information\" section. The format of the locations and dates were very inconsistent, especially with the different authors involved. However, after looking at these photographs for some time, I started to see certain patterns that may be useful.  In the next few sections, I will explain my process of understanding the documents, transcribing their contents and cleaning the data using various tools and techniques. Finally, I will discuss what I have learned from data by presenting some visualizations.  All the contents of this project can be found  here  on my GitHub page. If you are interested in extending the project, feel free to fork the repository and make your own additions.", 
+            "title": "Introduction"
         }, 
         {
             "location": "/understanding/", 
