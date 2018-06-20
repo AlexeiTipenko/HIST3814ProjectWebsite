@@ -6,6 +6,6 @@ The first aspect of the data I turned to was the dates. I used RStudio, along wi
 
 Here are the two graphs for the event dates:
 
-![Bar Chart](https://github.com/AlexeiTipenko/HIST3814O_Project_Repo/blob/master/visualizations/Event_Date_Barplot.png)
+![Bar Chart](https://github.com/AlexeiTipenko/HIST3814O_Project_Repo/blob/master/visualizations/Event_Date_Barplot.png?raw=true)
 
-![Histogram file](https://github.com/AlexeiTipenko/HIST3814O_Project_Repo/blob/master/visualizations/Event_Dates_Histogram.png)
+![Histogram file](https://github.com/AlexeiTipenko/HIST3814O_Project_Repo/blob/master/visualizations/Event_Dates_Histogram.png?raw=true)
