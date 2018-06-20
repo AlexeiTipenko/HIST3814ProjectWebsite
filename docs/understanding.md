@@ -2,11 +2,11 @@
 
 Before diving deep into the project, I was curious to see how successful Tesseract to perform OCR (object character recognition) on the 80 photographs in the collection. The results were quite disappointing. Here is an example of a text file converted using Tesseract:
 
-![Image of a text file](https://github.com/AlexeiTipenko/HIST3814O_Project_Repo/blob/master/war_diaries_ocr/e001518037.jpg-ocr.txt)
+![Image of a text file](https://github.com/AlexeiTipenko/HIST3814O_Project_Repo/blob/master/war_diaries_ocr/e001518037.jpg-ocr.txt?raw=true)
 
 If you look through all the [text files](https://github.com/AlexeiTipenko/HIST3814O_Project_Repo/tree/master/war_diaries_ocr), you can see that all of them are of the same quality. Unfortunately, Tesseract and other OCR tools are simply not good enough to accurately transcribe the these photographs. The only solution here is to transcribe them all by hand.
 
-Two of my classmates, Lauren Rollit and Amanda Ngan worked with me to transcribe all 80 of the original photographs into separate text files. Lauren was responsible for transcribing the first 58 documents. I transcribed the next 12, and Amanda transcribed the remaining 10. The transcribed documents can be found [here](https://github.com/AlexeiTipenko/HIST3814O_Project_Repo/tree/master/all_transcribed_diaries).
+Two of my classmates, [Lauren Rollit](https://github.com/laurenrollit) and [Amanda Ngan](https://github.com/amandangan) worked with me to transcribe all 80 of the original photographs into separate text files. Lauren was responsible for transcribing the first 58 documents. I transcribed the next 12, and Amanda transcribed the remaining 10. The transcribed documents can be found [here](https://github.com/AlexeiTipenko/HIST3814O_Project_Repo/tree/master/all_transcribed_diaries).
 
 Before working on cleaning the files, I spend a lot of time looking through the transcribed files to understand what insights I can get from them. One thing was immediately clear from the start, I could not throw all the files into one and start cleaning the whole file. The first thing to note is that all the files fell into one of three broad categories: a normal diary entry, an outlier (different format) and a cover page that contained the volume numbers. I also noticed that about a third of the documents were not from the 14th hospital at all. These documents were from the 10th Canadian hospital. I noticed this by looking at the location documented either on the top of bottom of every document. The documents from the 10th hospital also had a different format. They were written by a different author who documented locations more frequently and was in the habit of documenting every event with only one date.
 
@@ -23,4 +23,4 @@ Here is a list of steps I tool to organize the data:
 
     3) Separate the trimmed text file into 3: 3-main_pages.txt, 4-outliers_pages.txt and 5-volume_pages.txt.
 
-     The main mages file consists of the bulk of the data that I was working with. The other two were used as references. They can be useful for future analysis. 
+     The main mages file consists of the bulk of the data that I was working with. The other two were used as references. They can be useful for future analysis.

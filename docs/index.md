@@ -4,4 +4,4 @@ The purpose of this project was to create a compelling story for the data found 
 
 In the next few sections, I will explain my process of understanding the documents, transcribing their contents and cleaning the data using various tools and techniques. Finally, I will discuss what I have learned from the data by presenting some visualizations.
 
-All the contents of this project can be found [here]() on my GitHub page. If you are interested in extending the project, feel free to fork the repository and make your own additions.
+All the contents of this project can be found [here](https://github.com/AlexeiTipenko/HIST3814O_Project_Repo) on my GitHub page. If you are interested in extending the project, feel free to fork the repository and make your own additions.
