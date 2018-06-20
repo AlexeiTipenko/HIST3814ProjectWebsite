@@ -32,12 +32,12 @@
         }, 
         {
             "location": "/analysis/", 
-            "text": "Insights and Visualizations\n\n\nAfter I ended up with a clean csv file containing all the various events and their corresponding dates, I began to create various visualizations to understand what all the data means.\n\n\nThe first aspect of the data I turned to was the dates. I used RStudio, along with the ggplot2, scales and lubridate packages to create a bar chart and a histogram for both the documented dates and the event dates.\n\n\nHere are the two graphs for the event dates:", 
+            "text": "Insights and Visualizations\n\n\nAfter I ended up with a clean csv file containing all the various events and their corresponding dates, I began to create various visualizations to understand what all the data means.\n\n\nThe first aspect of the data I turned to was the dates. I used RStudio, along with the ggplot2, scales and lubridate packages to create a histogram for both the documented dates and the event dates.\n\n\nHere is the graph for the event dates:\n\n\n\n\nHere is the graph for the documented dates:", 
             "title": "4) Insights and Visualizations"
         }, 
         {
             "location": "/analysis/#insights-and-visualizations", 
-            "text": "After I ended up with a clean csv file containing all the various events and their corresponding dates, I began to create various visualizations to understand what all the data means.  The first aspect of the data I turned to was the dates. I used RStudio, along with the ggplot2, scales and lubridate packages to create a bar chart and a histogram for both the documented dates and the event dates.  Here are the two graphs for the event dates:", 
+            "text": "After I ended up with a clean csv file containing all the various events and their corresponding dates, I began to create various visualizations to understand what all the data means.  The first aspect of the data I turned to was the dates. I used RStudio, along with the ggplot2, scales and lubridate packages to create a histogram for both the documented dates and the event dates.  Here is the graph for the event dates:   Here is the graph for the documented dates:", 
             "title": "Insights and Visualizations"
         }, 
         {
