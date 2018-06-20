@@ -2,7 +2,7 @@
 
 Before diving deep into the project, I was curious to see how successful Tesseract to perform OCR (object character recognition) on the 80 photographs in the collection. The results were quite disappointing. Here is an example of a text file converted using Tesseract:
 
-![Image of a text file](https://github.com/AlexeiTipenko/HIST3814O_Project_Repo/blob/master/war_diaries_ocr/e001518037.jpg-ocr.txt?raw=true)
+![Image of a text file](https://github.com/AlexeiTipenko/HIST3814O_Project_Repo/blob/master/visualizations/tesseract_example.png?raw=true)
 
 If you look through all the [text files](https://github.com/AlexeiTipenko/HIST3814O_Project_Repo/tree/master/war_diaries_ocr), you can see that all of them are of the same quality. Unfortunately, Tesseract and other OCR tools are simply not good enough to accurately transcribe the these photographs. The only solution here is to transcribe them all by hand.
 

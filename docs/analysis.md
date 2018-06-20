@@ -36,6 +36,11 @@ One final question I had regarding the data was how the different names mentione
 
 It is clear from this visualization that the most common names in the event descriptions had the same relative frequency. C.A.Young has been mentioned 8 times and the next 3 common names are trailing close behind with 5 instances. This says something about the nature of the events in the diary. It is already established that many of the events have to do with the movement of military personnel. So it makes sense for names to only show up a few times. A normal troop would probably be taking on strength for a unit, then leaving it for another unit a year or two later. It wouldn't make sense to constantly move personnel around. It could be the case that the most common names were mistakenly transferred between units a few too many times. Or maybe these people had importance in relation to the hospital and the depot. If you are interested in exploring name specific data through various visualizations, you can find that [here](http://voyant-tools.org/?corpus=435d9253e10c4fc58957110a9e16fa3c).
 
+Here is another quick and general visualization that I made with trifacta:
+
+![Tesseract png](https://github.com/AlexeiTipenko/HIST3814O_Project_Repo/blob/master/visualizations/tesseract_example.png?raw=true)
+
 These visualizations have provided some interesting insights on the 14th General Hospital and the potential state of the Canadian military during World War One. Before starting this project, I assumed that the majority of the insights would involve the hospital directly. I was quite surprised to find out that even basic information like military personnel movement can produce insights on the state of the Canadian military at a given time and important dates during the war itself.
+
 
 If you would like to see any of the files for this project, please visit the project repository my GitHub [page](https://github.com/AlexeiTipenko/HIST3814O_Project_Repo).
