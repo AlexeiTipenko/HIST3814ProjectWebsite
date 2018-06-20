@@ -12,4 +12,4 @@ My greatest strength that I've discovered through this course is that I am a lot
 
 My greatest weakness was probably procrastination and trying to get things to work perfectly the first time. A lot of the stress involved with this course was getting stuck on something small last minute and not quite being able to fix it. In terms of perfectionism, I would expect things to work right away after running a command or finishing an exercise. In the world of software, that almost never happens. When these expectations are constantly ruined by some unknown error, I can easily burn out. I've been getting better at that by scheduling my work better and forcing myself to get away from the computer.
 
-This has been one of my favorite course at Carleton to date. It was very refreshing to see how technology can interact with the humanities in such a meaningful way. 
+This has been one of my favorite courses at Carleton to date. It was very refreshing to see how technology can interact with the humanities in such a meaningful way. 
