@@ -14,7 +14,7 @@ This was the key difference between the documents from the two hospitals. The au
 
 Based on the specific documents I was working with, I found some consistent patterns that I can use to help me understand the contents of the diaries on a macro level. These included the documented date, event description, event date and the count of the various workers at specific points in time. The data on the count was also separated into a different file to keep everything organized.
 
-Here is a list of steps I tool to organize the data:
+Here is a list of steps I took to organize the data:
 
     1) Combine all transcribed text documents into one file using the following command:
         cat * > 1-merge_initial.txt

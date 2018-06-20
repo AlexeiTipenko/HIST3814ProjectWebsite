@@ -38,7 +38,7 @@ It is clear from this visualization that the most common names in the event desc
 
 Here is another quick and general visualization that I made with trifacta:
 
-![Tesseract png](https://github.com/AlexeiTipenko/HIST3814O_Project_Repo/blob/master/visualizations/tesseract_example.png?raw=true)
+![Tesseract png](https://github.com/AlexeiTipenko/HIST3814O_Project_Repo/blob/master/visualizations/general_statistics.png?raw=true)
 
 These visualizations have provided some interesting insights on the 14th General Hospital and the potential state of the Canadian military during World War One. Before starting this project, I assumed that the majority of the insights would involve the hospital directly. I was quite surprised to find out that even basic information like military personnel movement can produce insights on the state of the Canadian military at a given time and important dates during the war itself.
 
