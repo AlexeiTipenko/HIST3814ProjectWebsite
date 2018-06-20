@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Introduction\n\n\nThe purpose of this project was to create a compelling story for the data found in the 14th Canadian General Hospital War Diaries. This collection can be found \nhere\n, or it can be viewed on my \nGitHub page\n. After looking at the files, it was difficult to see how I could use digital history to get any kind of valuable information from these photographs. For one, it was difficult to understand the writing. There were several spelling and grammatical mistakes contained within the \"Summary of Events and Information\" section. The format of the locations and dates were very inconsistent, especially with the different authors involved. However, after looking at these photographs for some time, I started to see certain patterns that may be useful.\n\n\nIn the next few sections, I will explain my process of understanding the documents, transcribing their contents and cleaning the data using various tools and techniques. Finally, I will discuss what I have learned from the data by presenting some visualizations.\n\n\nAll the contents of this project can be found \nhere\n on my GitHub page. If you are interested in extending the project, feel free to fork the repository and make your own additions.", 
+            "text": "Introduction\n\n\n\n\nThe purpose of this project was to create a compelling story for the data found in the 14th Canadian General Hospital War Diaries. This collection can be found \nhere\n, or it can be viewed on my \nGitHub page\n. After looking at the files, it was difficult to see how I could use digital history to get any kind of valuable information from these photographs. For one, it was difficult to understand the writing. There were several spelling and grammatical mistakes contained within the \"Summary of Events and Information\" section. The format of the locations and dates were very inconsistent, especially with the different authors involved. However, after looking at these photographs for some time, I started to see certain patterns that may be useful.\n\n\nIn the next few sections, I will explain my process of understanding the documents, transcribing their contents and cleaning the data using various tools and techniques. Finally, I will discuss what I have learned from the data by presenting some visualizations.\n\n\nAll the contents of this project can be found \nhere\n on my GitHub page. If you are interested in extending the project, feel free to fork the repository and make your own additions.", 
             "title": "1) Introduction"
         }, 
         {
@@ -41,12 +41,12 @@
             "title": "Insights and Visualizations"
         }, 
         {
-            "location": "/conclusion/", 
+            "location": "/reflection/", 
             "text": "Conclusion", 
             "title": "5) Conclusion"
         }, 
         {
-            "location": "/conclusion/#conclusion", 
+            "location": "/reflection/#conclusion", 
             "text": "", 
             "title": "Conclusion"
         }

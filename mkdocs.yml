@@ -4,7 +4,7 @@ site_author: Alexei Tipenko
 
 pages:
     - 1) Introduction: 'index.md'
-    - 2) Understanding the War Diaries: 'understanding.md' 
+    - 2) Understanding the War Diaries: 'understanding.md'
     - 3) Cleaning Data: 'cleaning.md'
     - 4) Insights and Visualizations: 'analysis.md'
-    - 5) Conclusion: 'conclusion.md'
+    - 5) Conclusion: 'reflection.md'
